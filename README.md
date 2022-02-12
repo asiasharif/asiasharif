@@ -17,9 +17,6 @@ Technical Skills:
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 
-Connect with me:
-
-<a href="https://www.flaticon.com/free-icons/instagram" title="instagram icons">Instagram icons created by Freepik - Flaticon</a>
 
 <!--
 **asiasharif/asiasharif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
