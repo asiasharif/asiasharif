@@ -12,10 +12,10 @@
 
 <br>
 
-- 🌱 I’m currently learning data structures & algorithms and AWS Cloud Practioner.
-- 👯 I’m looking to collaborate on Machine Learning, Software Engineering and Blockchain Development.
+- 🌱 I’m currently learning Data structures & Algorithms and AWS Cloud Practioner.
+- 👯 I’m looking to collaborate on Machine Learning, Software Engineering and Blockchain Development projects.
 - 🤔 I’m looking for help with AWS and mentorship.
-- 💬 Ask me about OOP, Blockchain, Leadership and Software Development. 
+- 💬 Ask me about OOP, Blockchain, Leadership and Software Engineering. 
 - 📫 How to reach me: asiasharif79@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Less than 1% of the world have my personality (Advocate personality) and I enjoy playing chess.
@@ -47,7 +47,7 @@ width="30px" height="height">
 
 ##  ✍🏾 Project links
 
-- [Click Me](https://github.com/asiasharif/Bootcamp_projects) 
+- 👩🏽‍🏫 [Click Me](https://github.com/asiasharif/Bootcamp_projects) 
 
 
 <br>
