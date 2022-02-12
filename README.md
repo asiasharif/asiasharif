@@ -47,7 +47,7 @@ width="30px" height="height">
 
 ##  ✍🏾 Project links
 
-- [Projects](https://github.com/asiasharif/Bootcamp_projects) 
+- [Click Me](https://github.com/asiasharif/Bootcamp_projects) 
 
 
 <br>
