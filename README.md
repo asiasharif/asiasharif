@@ -12,5 +12,5 @@
 - 💬 Ask me about OOP, Blockchain, Leadership and Software Development. 
 - 📫 How to reach me: asiasharif79@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Less than 1% of the world have my personality and I enjoy playing chess.
+- ⚡ Fun fact: Less than 1% of the world have my personality (Advocate personality) and I enjoy playing chess.
 -->
