@@ -10,7 +10,10 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Less than 1% of the world have my personality (Advocate personality) and I enjoy playing chess.
 
-
+<a href="https://www.linkedin.com/in/asia-sharif-60616b150/">
+<img src="linkedin.png" alt="alternate text"
+width="width" height="height">
+</a>
 
 
 
