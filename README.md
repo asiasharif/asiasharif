@@ -9,6 +9,12 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Less than 1% of the world have my personality (Advocate personality) and I enjoy playing chess.
 
+
+
+Technical Skills: 
+
+https://github.com/asiasharif/asiasharif.git
+
 <!--
 **asiasharif/asiasharif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
