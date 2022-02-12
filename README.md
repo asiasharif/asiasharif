@@ -2,8 +2,10 @@
 
 
 - 🔭 I’m currently working on my technical, leadership and communication skills through:
-- Mentoring software engineering students with [Coding Black Females](https://codingblackfemales.com/) and [Black Girls In Tech](https://www.blackgirlsintech.org/)
-- Completing multiple bootcamps such as Software Engineering Nanodegree with [Code First Girls](https://codefirstgirls.org.uk/courses/nanodegree/) and a Blockchain Development Bootcamp with [ConsenSys](https://consensys.net/) 
+<br>
+
+- 💁🏽‍♀️ Mentoring software engineering students with [Coding Black Females](https://codingblackfemales.com/) and [Black Girls In Tech](https://www.blackgirlsintech.org/)
+- 📚 Completing multiple bootcamps such as Software Engineering Nanodegree with [Code First Girls](https://codefirstgirls.org.uk/courses/nanodegree/) and a Blockchain Development Bootcamp with [ConsenSys](https://consensys.net/) 
 
 <br>
 
@@ -37,7 +39,7 @@ width="30px" height="height">
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 
-## Education 
+## 👩🏽‍💻 Education 
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c) ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 
 <br>
