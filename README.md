@@ -45,7 +45,7 @@ width="30px" height="height">
 ## 👩🏽‍💻 Education 
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c) ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 
-##  ✍🏾 ![Projects](https://github.com/asiasharif/Bootcamp_projects) 
+##  ✍🏾 [Projects](https://github.com/asiasharif/Bootcamp_projects) 
 
 
 <br>
