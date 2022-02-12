@@ -12,7 +12,7 @@
 
 <a href="https://www.linkedin.com/in/asia-sharif-60616b150/">
 <img src="images/linkedin.png" alt="alternate text"
-width="width" height="height">
+width="21px" height="height">
 </a>
 
 
