@@ -41,6 +41,7 @@ width="30px" height="height">
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c) ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 
 <br>
+
 ## 📝 Latest Blog Posts
 - [NAVIGATING THE TECH INDUSTRY AS A BLACK MUSLIM WOMAN](https://codefirstgirls.org.uk/navigating-the-tech-industry-as-a-black-muslim-woman-by-asia-sharif/)
 - [Meet Asia, an award-winning junior software / blockchain engineer, mentor & co-founder](https://www.haystackapp.io/resources/developer-stories-meet-asia-award-winning-junior-software-engineer-mentor-co-founder)
