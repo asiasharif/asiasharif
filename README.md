@@ -1,5 +1,9 @@
-### Hi there, I'm Asia 👋
+### Hi there, I'm Asia, I transitioned into tech from a non-technical background January 2021. 👋
 
+<br>
+
+- 🏆 ![Globant Rising Star In Tech Award U.K. Winner](https://womenawards.globant.com)
+<br>
 
 - 🔭 I’m currently working on my technical, leadership and communication skills through:
 <br>
