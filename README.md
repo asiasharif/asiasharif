@@ -2,9 +2,9 @@
 
 
 
-- 🏆 Globant Rising Star In Tech Award - Winner 🎉
+- 🏆 Globant Rising Star In Tech Award U.K. - Winner 🎉
 
-- 🔭 I’m currently working on my technical, leadership and communication skills through:
+- 🔭 I’m currently working on my technical, problem solving, leadership and communication skills through:
 <br>
 
 - 💁🏽‍♀️ Mentoring software engineering students with [Coding Black Females](https://codingblackfemales.com/) and [Black Girls In Tech](https://www.blackgirlsintech.org/)
@@ -58,6 +58,7 @@ width="30px" height="height">
 - [How This Woman Taught Herself To Code And Landed A Software Engineering Job During The Pandemic](https://peopleofcolorintech.com/front/how-this-woman-taught-herself-to-code-and-landed-a-software-engineering-job-during-the-pandemic/)
 - [BGIT Spotlight : Asia Sharif](https://www.blackgirlsintech.org/news-and-events/spotlight-sundays-asia-sheriff)
 - [Asia Sharif - My personal journey into technology](https://www.blackvalley.co.uk/post/asia-sharif-my-personal-journey-into-technology)
+
 
 
 <!--
