@@ -1,8 +1,13 @@
 ### Hi there, I'm Asia 👋
 
 
-- 🔭 I’m currently working on my technical, leadership and communication skills.
-- 🌱 I’m currently learning data structures and algorithms.
+- 🔭 I’m currently working on my technical, leadership and communication skills through:
+- Mentoring software engineering students with [Coding Black Females](https://codingblackfemales.com/) and [Black Girls In Tech](https://www.blackgirlsintech.org/)
+- Completing multiple bootcamps such as Software Engineering Nanodegree with [Code First Girls](https://codefirstgirls.org.uk/courses/nanodegree/) and a Blockchain Development Bootcamp with [ConsenSys](https://consensys.net/) 
+
+
+
+- 🌱 I’m currently learning data structures & algorithms and AWS Cloud Practioner.
 - 👯 I’m looking to collaborate on Machine Learning, Software Engineering and Blockchain Development.
 - 🤔 I’m looking for help with AWS and mentorship.
 - 💬 Ask me about OOP, Blockchain, Leadership and Software Development. 
