@@ -1,4 +1,4 @@
-### Hi there, I'm Asia, I transitioned into tech from a non-technical background January 2021. 👋
+### Hi there, I'm Asia! I transitioned into tech from a non-technical background January 2021. 👋
 
 
 
