@@ -60,6 +60,10 @@ width="30px" height="height">
 - [Asia Sharif - My personal journey into technology](https://www.blackvalley.co.uk/post/asia-sharif-my-personal-journey-into-technology)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asiasharif&layout=compact)](https://github.com/asiasharif)
+
+
+
 
 <!--
 **asiasharif/asiasharif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
