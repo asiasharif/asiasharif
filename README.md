@@ -58,6 +58,7 @@ width="30px" height="height">
 - [How This Woman Taught Herself To Code And Landed A Software Engineering Job During The Pandemic](https://peopleofcolorintech.com/front/how-this-woman-taught-herself-to-code-and-landed-a-software-engineering-job-during-the-pandemic/)
 - [BGIT Spotlight : Asia Sharif](https://www.blackgirlsintech.org/news-and-events/spotlight-sundays-asia-sheriff)
 - [Asia Sharif - My personal journey into technology](https://www.blackvalley.co.uk/post/asia-sharif-my-personal-journey-into-technology)
+- [How to style your GitHub page, who said backend engineers can’t style again?](https://medium.com/@asiasharif12/how-to-style-your-github-page-who-said-backend-engineers-cant-style-again-d1e9e396c4bd)
 
 <br>
 
