@@ -3,8 +3,8 @@
 
 
 - 🏆 Globant Rising Star In Tech Award U.K. - Winner 🎉
-- Software Engineer @ Leading bank in the U.K.
-- Founder of ChainVerse
+- 🏦 Software Engineer @ Leading bank in the U.K.
+- 🥶 Founder of ChainVerse
 
 - 🔭 I’m currently working on my technical, problem solving, leadership and communication skills through:
 <br>
