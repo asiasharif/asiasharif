@@ -6,6 +6,10 @@
 - 🏦 Software Engineer @ Leading bank in the U.K.
 - 🥶 Founder of ChainVerse
 
+- 📓 Currently undergoing CFG Masters in Cloud Engineering and DevOps.
+<br>
+
+
 - 🔭 I’m currently working on my technical, problem solving, leadership and communication skills through:
 <br>
 
