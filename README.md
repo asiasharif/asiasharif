@@ -9,7 +9,6 @@
 - 📓 Currently undergoing CFG Masters in Cloud Engineering and DevOps.
 <br>
 
-
 - 🔭 I’m currently working on my technical, problem solving, leadership and communication skills through:
 <br>
 
@@ -18,9 +17,9 @@
 
 <br>
 
-- 🌱 I’m currently learning Data structures & Algorithms and AWS Cloud Practioner.
+- 🌱 I’m currently learning Advanced Data structures & Algorithms and AWS Cloud Practioner.
 - 👯 I’m looking to collaborate on Machine Learning, Software Engineering and Blockchain Development projects.
-- 🤔 I’m looking for help with AWS and mentorship.
+- 🤔 I’m looking for help with DSA.
 - 💬 Ask me about OOP, Blockchain, Leadership and Software Engineering. 
 - 📫 How to reach me: asiasharif79@gmail.com
 - 😄 Pronouns: She/Her
