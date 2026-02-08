@@ -21,7 +21,7 @@
 - 👯 I’m looking to collaborate on Machine Learning, Software Engineering and Blockchain Development projects.
 - 🤔 I’m looking for help with DSA.
 - 💬 Ask me about OOP, Blockchain, Leadership and Software Engineering. 
-- 📫 How to reach me: asiasharif79@gmail.com
+- 📫 How to reach me: asiasharif997@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Less than 1% of the world have my personality (Advocate personality) and I enjoy playing chess.
 
